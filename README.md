@@ -1,6 +1,6 @@
 # Hibernate UnProxy
 
-Hibernate UnProxy helper class for unproxing hibernate entities. Support Hibernate 4.2.x, 4.3.x, 5.0.x
+Hibernate UnProxy helper class for unproxing hibernate entities. Supports Hibernate 4.2.x, 4.3.x, 5.0.x
 
 ## How to get it?
 
